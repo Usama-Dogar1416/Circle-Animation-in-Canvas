@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    position: relative;
+    overflow: hidden;
+}
+
+canvas{
+    border: 1px solid #000;
+}
